@@ -83,7 +83,7 @@
               <label for="archiv"><t><de>Workshop</de><en>Conference</en></t>:</label>    
               <select class="selectpicker form-control" id="archiv"><!--style="display: inline-block;width: auto;"-->
                 <option value="index.html" selected="selected">2019</option>
-                <option value="https://act.yapc.eu/gpw2017/">2018</option>
+                <option value="https://act.yapc.eu/gpw2018/">2018</option>
                 <option value="https://act.yapc.eu/gpw2017/">2017</option>
                 <option value="https://act.yapc.eu/gpw2016/">2016</option>
                 <option value="https://act.yapc.eu/gpw2015/">2015</option>
